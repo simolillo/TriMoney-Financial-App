@@ -1,0 +1,30 @@
+
+Allora questa è una nota per dirvi quello che cambia da prototipo a prototipo è perché questi cambi sono avvenuti nel primo Porro. Totipo Possiamo vedere un grafico a torta che poi scomparirà nei prodotti successivi? E. Diciamo la struttura rimane simile a quella degli altri piloti, ovvero il grafico nella parte superiore seguito dalla lista delle spese e tra di loro.
+
+I pulsanti per filtrare e cercare per nome questo rotatorio risultava a parte. Forse considerato che c'erano avevo fatto i puntini per non. Come dire? Per non dover disegnare tutte le.
+
+Come si dice tutte le spese? Categorizzate non doverle colorare tutte ho fatto i punti il momento di pigrizia e. Ho riscontrato il fatto che questi puntini distraevano l'utente.
+
+Nel provare l'applicazione e ho deciso quindi il successivo di farlo il più Fedele possibile a quello che sarebbe stato poi il prodotto finale. Comunque questa. Ti ho prototipo questo primo prototipo risultava molto clutterd, Cioè nel senso C'era troppa roba e non. Il layout?
+
+Del grafico più le categorie più la cosa tutto sulla stessa linea occupa troppo spazio non era per niente chiaro. Successivamente ho quindi deciso, abbiamo quindi deciso di. Rendere il grafico a torta un grafico lineare in cui a barra in cui venivano rappresentate le. Le percentuali? In quale percentuale? Le spese di diverse categorie andavano negli inficiare sulle spese totali.
+
+E. Appare per la prima volta sia il pulsante Order che il messaggio una spesa ancora da catalizzare con i pulsantini. Pericolo insomma e questo perché era difficile da vedere che c'era una spesa da categorizzare in quello prima, sia perché non. Era poco Fedele. Considerato che c'erano i due spazi bianchi e quindi potevano essere tranquillamente altre due spese bianche esattamente come la prima, quindi non c'era niente da di diverso e sia perché.
+
+Approvato ad inserire un messaggio sotto al grafico a torta, ma risultava tutto sempre troppo. Stretto insomma, cioè. Non aveva il suo spazio. Grazie al grafico a barra tutto ha trovato il suo spazio. E Anzi poi questo in realtà è molto, Cioè è abbastanza simile al Sigma. Al primo film.
+
+Che si discosta dal terzo brodo di carta in cui ho voluto provare a fare un'altra, ho provato. A fare una come dire ad adottare un'altra soluzione, dato che ancora i tester avevano difficoltà a trovare la. La spesa da categorizzare nonostante fosse la prima della lista. E nonostante ci fosse un messaggio che diceva che c'era un ospedale teorizzare.
+
+Quindi ho provato a spostare la spesa da categorizzare il messaggio stesso in cima al. Alla pagina. Tuttavia questo rendeva il tutto ancora più. Incasinato e. Anzi alcuni. Un Tester addirittura, Anzi due tessere addirittura non hanno visto, hanno totalmente ignorato sia il messaggio che la spesa categorizzare perché loro? Focus quindi.
+
+Locus dell'attenzione ricadeva subito sul. Quanto a quanto ammontavano le loro spese che era e quindi si perdevano totalmente.
+
+La spesa da categorizzare e il messaggio inerente ad essa, quindi l'intento era quello di spostare il logo dell'attenzione su quest'ultima ma. È successo totalmente il contrario, Quindi per il prototipo sul film sono tornato indietro, però implementando. Un'idea. Cioè quella di creare due liste separate per le spese non categorizzate per le spese.
+
+Categorizzate che scorrevano separatamente questo. Nella review col professore è risultato poco conveniente, insomma nella sua user elevation che potremo farti chiamare anche exweb Expert evaluation e quindi nel diciamo film finali in cui. In realtà mi è più servito a me per visualizzare quello che poi. Servirà fare su flutter.
+
+Ho deciso di unire non categorizzati e categorizzate. In una lista però divisa. Quindi è una lista che scorre tutte insieme, ma alla cima ci sono le non categorizzate con la loro lebon in cima e. Subito dopo ci sono le categorizzate con sempre la loro debole. Che le divide dalle non categorizzate.
+
+Inoltre ovviamente il layout è lo stesso, ma il bottone è diverso, appaiono non colorate e con il bottone.
+
+Daje Roma.
