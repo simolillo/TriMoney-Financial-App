@@ -53,6 +53,11 @@ Every recording can be found following [this link](https://drive.google.com/driv
 Flutterflow is a software to create UIs and apps with the use of Google Firebase backend. A mixture of its no-code and custom (classic) code was used to develop the app.  
 The APK of the app can be found [here](../trimoney.apk).
 
+## Auhtors
+
+- [Siria Sannino](https://github.com/u-siri-ous)
+- [Kevin Wairi](https://github.com/kevinwairi)
+
 ## License
 
 TriMoney is released under the [MIT License](../LICENSE).
