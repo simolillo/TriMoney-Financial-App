@@ -42,12 +42,12 @@ The full Figma prototype can be found at [this link](https://drive.google.com/dr
 ## Evaluation
 
 User evaluation was carried out using the Think Aloud method, for approximately three recorded evaluation sessions per feature, organized in folders for easy access.
-The response to the paper prototypes was positive enough to start the Production phase in FlutterFlow.
+The response to the paper prototypes was positive enough to start the Production phase in FlutterFlow.  
 Every recording can be found following [this link] (DA METTERE).
 
 ## App Development
 
-Flutterflow is a software to create UIs and apps with the use of Google Firebase backend. A mixture of its no-code and custom (classic) code was used to develop the app.
+Flutterflow is a software to create UIs and apps with the use of Google Firebase backend. A mixture of its no-code and custom (classic) code was used to develop the app.  
 The APK of the app can be found [here] (DA METTERE).
 
 ## License
