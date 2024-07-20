@@ -9,7 +9,7 @@
 TriMoney is an app designed to make money management easier and more conscious for users, featuring an appealing UI with functionalities to avoid falling into bad habits and money anxiety. The report will describe the Need Finding, Storyboarding, Prototyping, Evaluation and Production phases.
 <br />
 <br />
-***Please read the [PAPER] (DA METTERE) for the entire documentation of the project***
+***Please read the [PAPER](./PAPER) for the entire documentation of the project***
 
 ## Need Finding
 
@@ -46,12 +46,12 @@ The full Figma prototype can be found at [this link](https://drive.google.com/dr
 
 User evaluation was carried out using the Think Aloud method, for approximately three recorded evaluation sessions per feature, organized in folders for easy access.
 The response to the paper prototypes was positive enough to start the Production phase in FlutterFlow.  
-Every recording can be found following [this link] (DA METTERE).
+Every recording can be found following [this link](https://drive.google.com/drive/folders/1bfrFxzuzANDSYAnbGFRpThcnNnhTL0z1?usp=sharing).
 
 ## App Development
 
 Flutterflow is a software to create UIs and apps with the use of Google Firebase backend. A mixture of its no-code and custom (classic) code was used to develop the app.  
-The APK of the app can be found [here] (DA METTERE).
+The APK of the app can be found [here](../trimoney.apk).
 
 ## License
 
