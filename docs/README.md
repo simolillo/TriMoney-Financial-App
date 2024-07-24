@@ -58,7 +58,7 @@ The APK of the app can be found [here](../trimoney.apk).
 - [Siria Sannino](https://github.com/u-siri-ous)
 - [Oriana Deliallisi](https://github.com/orianani311)
 - [Nicola Mastrorilli](https://github.com/MastroCC8)
-- Mouli Fernando
+- [Mouli Fernando](https://github.com/mou-ferdz)
 - [Attilio Vanacore](https://github.com/attiliov)
 - [Simone Russolillo](https://github.com/simolillo)
 
